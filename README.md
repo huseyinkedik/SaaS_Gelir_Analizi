@@ -1,5 +1,5 @@
 # SaaS Gelir Analizi Dashboard
-![alt text](https://github.com/huseyinkedik/SaaS-Gelir-Analizi/blob/main/Dashboard%202.png)
+![alt text](https://github.com/huseyinkedik/SaaS_Gelir_Analizi/blob/main/Dashboard%202.png)
 Detaylı dashboard içeriğine ve diğer projelere [buradan](https://public.tableau.com/views/4_Konu4_Tableaudaetkileimlipanolaroluturma/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ulaşabilirsiniz.
 
 ## Proje Özeti:
